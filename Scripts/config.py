@@ -1,0 +1,4 @@
+PS3_IP="192.168.100.6"
+FTP_USER="anonymous"
+FTP_PASSWORD=""
+REMOTE_DIR="/dev_hdd0"
